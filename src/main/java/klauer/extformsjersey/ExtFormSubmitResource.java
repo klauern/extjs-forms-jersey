@@ -13,7 +13,7 @@ import javax.ws.rs.Produces;
  * A resource for testing ExtJS form submittal in Jersey.
  * <p>
  * Resource to be located at '/xml/form'
- * @author Nick Klauer (a03182) <nicholasklauer@alliantenergy.com>
+ * @author Nick Klauer <klauer@gmail.com>
  */
 @Path("/xml/form")
 public class ExtFormSubmitResource {
