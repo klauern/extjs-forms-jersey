@@ -61,7 +61,7 @@
         </dependency>
     </dependencies>
     <properties>
-        <jersey-version>1.4-ea05</jersey-version>
+        <jersey-version>1.19.4</jersey-version>
     </properties>
     <repositories>
         <repository>
